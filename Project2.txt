@@ -1,1 +1,2 @@
 First git project
+This document is used to practice git 
