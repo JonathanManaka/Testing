@@ -1,1 +1,2 @@
 Hi my name is Mpho, I am a software developer
+Skills: C# .Net, C++, PL/SQL
